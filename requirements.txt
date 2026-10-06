@@ -1,5 +1,5 @@
 # Ultimate SMS Bomber - Requirements
-# Created by: @@8Team/W8SOJIB
+# Created by: @Educationpointbd
 # Optimized for Termux and Desktop environments
 
 # ============================================================================
